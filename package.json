@@ -1,0 +1,19 @@
+{
+  "name": "ts-101",
+  "version": "1.0.0",
+  "description": "TypeScript 101",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc --watch",
+    "http-server": "npx http-server ./ -o"
+  },
+  "keywords": [
+    "Demos"
+  ],
+  "author": "Marciano Moreno",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
